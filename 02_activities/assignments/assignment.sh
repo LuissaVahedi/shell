@@ -76,6 +76,3 @@ ls user_logs >> ../inventory.txt
 ###########################################
 
 echo "Project setup is complete!"
-
-bash assignment.sh
-
