@@ -72,7 +72,6 @@ ls event_logs >> ../inventory.txt
 ls server_logs >> ../inventory.txt
 ls user_logs >> ../inventory.txt
 
-
 ###########################################
 
 echo "Project setup is complete!"
